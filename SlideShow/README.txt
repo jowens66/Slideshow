@@ -1,0 +1,2 @@
+Due to html file linking I have not included the .html file in this root folder, instead I have included the .js file.
+If you would like to run the program, go into the "Code" folder and simply run the "index.html" file.
